@@ -8,6 +8,7 @@
       <li>手机</li>
       <li>平板电脑</li>
       <li>笔记本电脑</li>
+      <li>按键机</li>
     </ol>
   <li>折腾各种</li>
     <ol>
@@ -41,4 +42,21 @@
     </ol>
 </ul>
 
-### 游戏喜欢MC，泰拉瑞亚，崩铁，NIKKE，BA，原神，及老小游戏的Flash，塞班和java
+### 游戏
+<ul>
+  <li>Minecraft</li>
+  <li>泰拉瑞亚</li>
+  <li>崩铁</li>
+  <li>NIKKE</li>
+  <li>BA</li>
+  <li>原神</li>
+  <Li>各种其它小游戏</Li>
+    <ol>
+      <li>Flash</li>
+      <li>塞班</li>
+      <li>java</li>
+      <li>任天堂的NES和SFC</li>
+    </ol>
+</ul>
+
+## - Updated about at 2026.3.8
