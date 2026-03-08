@@ -3,9 +3,9 @@
 
 ### 出生：2005.11.1
 ### 性别：男 Male
-### 特性：少会交流说话
+### 缺点：少会交流说话
 
-### 本人喜欢
+## 本人喜欢
 <ul>
   <li>老数码收藏</li>
     <ol>
@@ -46,6 +46,7 @@
           <li>11</li>
         </ol>
     </ol>
+  <li>二次元</li>
 </ul>
 
 ### 游戏
@@ -65,6 +66,13 @@
     </ol>
 </ul>
 
+## 本人社交
+
+### QQ: 3074506056
+### WeChat: prortm211bilibiliyt
+
+### 请勿添加！
+
 ## 本人网络平台博主
 <ul>
   <li>哔哩哔哩@Pro_Refresh2005 (CorrectActivateUsing)</li>
@@ -80,4 +88,5 @@
   <li>微博@YT_Pro_RTM_211 (OccasionallyUse,TaskSchedule)</li>
 </ul>
 
+### 有什么意见我的介绍，请私信我
 ## - Updated about at 2026.3.8
