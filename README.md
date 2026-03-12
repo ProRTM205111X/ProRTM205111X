@@ -71,11 +71,11 @@
 ### QQ: 3074506056
 ### WeChat: prortm211bilibiliyt
 
-### 请勿添加！
+### 有事可添加，不事，请勿添加！
 
 ## 本人网络平台博主
 <ul>
-  <li>哔哩哔哩@Pro_Refresh2005 (CorrectActivateUsing)</li>
+  <li>哔哩哔哩@Pro_Refresh2005 (CorrectActivateUsing,TaskSchedule)</li>
   <li>抖音@爱玩虚拟机的PR (UseLess,TaskScheduleLess)</li>
   <li>Github@ProRTM205111X (Correct)</li>
   <li>优酷@bili_tianbaoP (UseLessed,TaskSchedule)</li>
@@ -88,5 +88,6 @@
   <li>微博@YT_Pro_RTM_211 (OccasionallyUse,TaskSchedule)</li>
 </ul>
 
-### 有什么意见我的介绍，请私信我
-## - Updated about at 2026.3.8
+### 我的频道规则：<a herf='https://github.com/prortm205111x/rules/'>点击这里</a>
+### 有什么意见问题我的介绍，请私信我
+## - Updated about at 2026.3.12
