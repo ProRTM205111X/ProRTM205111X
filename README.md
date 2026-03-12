@@ -88,6 +88,6 @@
   <li>微博@YT_Pro_RTM_211 (OccasionallyUse,TaskSchedule)</li>
 </ul>
 
-### 我的频道规则：<a herf='https://github.com/prortm205111x/rules/'>点击这里</a>
+### 频道规则，点击我的仓库里的Rules
 ### 有什么意见问题我的介绍，请私信我
 ## - Updated about at 2026.3.12
