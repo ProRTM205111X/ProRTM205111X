@@ -5,6 +5,13 @@
 ### 性别：男 Male
 ### 缺点：少会交流说话
 
+## 本人些用剪辑软件
+<ul>
+  <li>必剪Android与iOS</li>
+  <li>Adobe Premiere</li>
+  <li>VN (少用)</li>
+</ul>
+
 ## 本人喜欢
 <ul>
   <li>老数码收藏</li>
@@ -56,6 +63,7 @@
   <li>崩铁</li>
   <li>NIKKE</li>
   <li>BA</li>
+  <li>明日方舟</li>
   <li>原神</li>
   <Li>各种其它小游戏</Li>
     <ol>
@@ -70,6 +78,8 @@
 
 ### QQ: 3074506056
 ### WeChat: prortm211bilibiliyt
+
+## 邮箱，我就不展示了
 
 ### 有事可添加，不事，请勿添加！
 
