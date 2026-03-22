@@ -100,4 +100,6 @@
 
 ### 频道规则，点击我的仓库里的Rules
 ### 有什么意见问题我的介绍，请私信我
+
+## English ver: Go to About-EN
 ## - Updated about at 2026.3.12
